@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ShoeSizeConverter
 //
-//  Created by WPP Administrator on 12/21/14.
+//  Created by Arun Bernard on 12/21/14.
 //  Copyright (c) 2014 Arun. All rights reserved.
 //
 
